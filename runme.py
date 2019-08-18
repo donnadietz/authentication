@@ -1,5 +1,5 @@
-#Spring 2018
-#HW C1
+#Fall 2019
+#HW 1
 #Place this file in a folder with one of the .pyc files
 #provided for this lesson.
 #Run this file. Do what it says.

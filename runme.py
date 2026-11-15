@@ -1,5 +1,5 @@
-#Fall 2019
-#HW 1
+#Data 410/610
+#HW for Installing Python
 #Place this file in a folder with one of the .pyc files
 #provided for this lesson.
 #Run this file. Do what it says.
